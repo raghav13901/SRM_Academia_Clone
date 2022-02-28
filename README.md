@@ -1,7 +1,5 @@
 # SRM Academia Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Quick Start
 
 - Fork and Clone the repo using
@@ -23,5 +21,5 @@ localhost:3000
 
 ##Preview
 
- ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/images/img1.jpeg)
- ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/images/img2.jpeg)
+ ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/blob/master/images/img1.jpeg)
+ ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/blob/master/images/img2.jpeg)
