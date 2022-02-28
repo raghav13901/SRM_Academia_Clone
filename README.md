@@ -20,6 +20,8 @@ npm run dev
 localhost:3000
 
 ## Preview
-
  ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/blob/master/images/img2.jpeg)
+ Login Page (/login)
+ 
  ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/blob/master/images/img1.jpeg)
+ Dashboard (/dashboard)
