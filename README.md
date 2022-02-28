@@ -13,10 +13,6 @@ cd SupDB
 ```
 npm install
 ```
-```
-cd client
-npm install
-```
 - Run server using
 ```
 npm run dev
