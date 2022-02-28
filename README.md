@@ -23,5 +23,5 @@ localhost:3000
 
 ##Preview
 
- ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/tree/master/images/img1.jpeg)
- ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/tree/master/images/img2.jpeg)
+ ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/images/img1.jpeg)
+ ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/images/img2.jpeg)
