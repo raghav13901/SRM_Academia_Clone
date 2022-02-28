@@ -19,7 +19,7 @@ npm run dev
 
 localhost:3000
 
-##Preview
+## Preview
 
  ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/blob/master/images/img2.jpeg)
  ![alt text](https://github.com/raghav13901/SRM_Academia_Clone/blob/master/images/img1.jpeg)
