@@ -1,0 +1,60 @@
+.login{
+    background-color: #3399FF;
+    height: 90vh;
+    max-width: 100vw;
+    padding: 1% 2%;
+    margin: 0 2% 3%;
+}
+.head{
+    background-color: #F4F4F4;
+    padding: 1%;
+}
+.head img{
+    height: 15vh;
+}
+.login h2{
+    color: #e6e6e6;
+    font-family: 'arimo';
+    font-weight: 700;
+    margin: 1% 0;
+}
+.form{
+    background-color: #fff;
+    width: 30%;
+    margin: 0 auto;
+    padding: 2% 3%;
+    text-align: left;
+    border-radius: 10px;
+}
+.form > div{
+    margin: 2% 0;
+}
+.form > div > input:focus{
+    box-shadow: 0 0 0 0.15rem rgb(13 110 253 / 25%) !important;
+}
+.form h5{
+    color: #33b5e5;
+    margin-bottom: 5%;
+}
+.form button{
+    color: #fff;
+    background-color: #33B5E5;
+    text-align: center;
+    width: 100%;
+    margin-top: 8%;
+    font-weight: 600;
+    border-radius:2px;
+    padding: 3% 0;
+}
+.form button:hover{
+    background-color: #33b5e5;
+    color: #fff;
+}
+.form a{
+    text-align: center;
+    display: block;
+    margin-top: 15%;
+    text-decoration: none;
+    font-size: 90%;
+    color: #33b5e5;
+}

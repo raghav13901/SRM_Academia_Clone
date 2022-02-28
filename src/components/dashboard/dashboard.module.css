@@ -1,0 +1,13 @@
+.sidebar > div{
+    padding: 0;
+}
+.sidebar{
+    margin: 0;
+}
+.sidebar > div:last-child{
+    overflow-y: scroll;
+    max-height: 92vh;
+}
+.sidebar > div:first-child{
+    box-shadow: 0 0 16px rgb(0 0 0 / 10%), 16px 16px 16px rgb(0 0 0 / 100%);
+}
